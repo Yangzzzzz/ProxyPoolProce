@@ -1,0 +1,5 @@
+HOST = '47.75.127.182'
+PORT = '6379'
+PASSWORD = 'yangz'
+PROXY_NAME = 'proxyPool'
+TEST_OUT = 10
